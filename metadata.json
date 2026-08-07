@@ -1,0 +1,6 @@
+{
+  "name": "Scholar",
+  "description": "Offline PWA for Algerian secondary school students with Grade Tracker, Tasks, Notes, and Custom Timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
